@@ -1,4 +1,4 @@
-peipeline {
+pipeline {
 
     agent { label 'SLAVE01'}
 
